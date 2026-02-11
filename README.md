@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Adoniyas 
 
-<!--
-**Ad0Sec/Ad0Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make things look good — on screen and on paper.
 
-Here are some ideas to get you started:
+By day (and most nights), I'm a graphic designer and video editor. I also code. Still learning, still building, still figuring it out — but that's the fun part.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm working with HTML, CSS, JavaScript, and Python. Slow progress is still progress.
+
+🎨 Tools I use: Photoshop, Premiere Pro, Figma, etc.
+💻 Currently: learning frontend development, one project at a time
+📁 What's here: design work, video edits, and things I've built
+📫 Say hi: realadoniyas@gmail.com
+
+✨ Creativity and code — that's the goal.
